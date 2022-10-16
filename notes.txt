@@ -1,0 +1,8 @@
+in package.json dir 
+$ npm install @mui/material @emotion/react @emotion/styled
+$ npm i react-router
+To use react snippets like rafce install ES7+ React/Redux/React-Native snippets
+v4.4.3 vscode extension
+add icons to project
+$npm install @mui/icons-material
+continiu at https://www.youtube.com/watch?v=uLSE7WtcrP0&list=PLDxCaNaYIuUlG5ZqoQzFE27CUOoQvOqnQ&index=2&ab_channel=TheAtypicalDeveloper
